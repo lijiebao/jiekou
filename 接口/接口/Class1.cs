@@ -24,6 +24,7 @@ namespace 接口
        {
         Console.WriteLine("编号\t 姓名");
         Console.WriteLine(ID+"\t"+name);
+        Console.WriteLine(ID+"\t"+name);
        }
     }
 
