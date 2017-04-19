@@ -1,0 +1,5 @@
+D:\程序\接口\接口\bin\Debug\接口.exe.config
+G:\Gitdatabase\接口\接口\bin\Debug\接口.exe.config
+G:\GitCode\接口\接口\bin\Debug\接口.exe.config
+G:\GitCode\接口\接口\obj\Debug\接口.csprojResolveAssemblyReference.cache
+G:\Gitdatabase\jiekou\接口\接口\bin\Debug\接口.exe.config
