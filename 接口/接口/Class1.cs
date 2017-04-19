@@ -16,7 +16,8 @@ namespace 接口
             set;
         }
         string Name
-        {
+        {   
+
             get;
             set;
         }
