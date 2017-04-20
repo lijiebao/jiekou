@@ -23,7 +23,7 @@ namespace 接口
         }
         void ShowInfo();
        {
-        Console.WriteLine("编号\t 姓名");
+        Console.WriteLine("happy\t happy");
         Console.WriteLine(ID+"\t"+name);
         Console.WriteLine(ID+"\t"+ID); 
         Console.WriteLine("happy\t year"); 
